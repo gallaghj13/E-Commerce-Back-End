@@ -22,9 +22,12 @@ In order for this application to work you will need the node environment and MyS
 ## Usage
 1. Make sure all dependencies are installed by running npm install.
 2. Source the database by opening the db folder in an integrated terminal, and running mysql -u root -p. You'll need to create a .env file that holds your database name, password and user.
-3. Seed the database by running "npm run seed".
+![alt-text](./images/Photo1.png) <br />
+3. Seed the database by running "npm run seed". <br />
+![alt-text](./images/Photo2.png) <br />
 4. To start the application open the server.js file in an integrated terminal and run "npm start".
 5. To test the routes you will need to use Insomnia or something similar. For an example of testing the routes there is a walkthrough video posted below.
+![alt-text](./images/Photo3.png)
 
 A walkthrough video can be seen via this link: https://watch.screencastify.com/v/Pr2RUTghV8FqmtcHTiJW
 
